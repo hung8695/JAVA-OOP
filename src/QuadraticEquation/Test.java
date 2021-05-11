@@ -19,7 +19,7 @@ public class Test {
             System.out.println("Phương trình có nghiệm là: x = "+quadraticEquation.getRoot1());
         } else {
             System.out.println("Phương trình có 2 nghiệm là: ");
-            System.out.prinln("x1 = "+ quadraticEquation.getRoot1());
+            System.out.print("x1 = "+ quadraticEquation.getRoot1());
             System.out.print("x2 = "+ quadraticEquation.getRoot2());
         }
     }
